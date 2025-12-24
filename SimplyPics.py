@@ -32,7 +32,7 @@ gallery_folder = gallery_path()
 # GUI
 def init_gui():
     root = customtkinter.CTk()
-    root.title("PyGal")
+    root.title("Simply Pics")
     root.geometry("1440x700")
     current_image_path = [None]
     top_margin = 5
@@ -147,5 +147,6 @@ except Exception as e:
     sys.stdout.flush()
     print("Error:", e)
     sys.stdout.flush()
+
 
 
