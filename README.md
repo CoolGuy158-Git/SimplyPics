@@ -1,0 +1,3 @@
+# SimplyPics
+
+![Screenshot](Screenshot.png)
